@@ -10,5 +10,5 @@ background('pink');
 function draw(){
   // use text function to write "hello world"
   text(*Hello World!*, 300, 200);
-  
+
 }
