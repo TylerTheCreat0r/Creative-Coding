@@ -6,8 +6,6 @@
 
 #### THIS IS A LEVEL 4 HEADER (That space is necessary)
 
-
-
 ## Paragraphs
 
 This is a paragraph. This paragraph requires no extra markup to signify it as such.
@@ -19,7 +17,6 @@ Above these paragraphs are headers. Notice that there is a new-blank-line after 
 ## Inline Syntax Markup
 
 To mark certain words as bold we surround them with two **asterisks**. To mark certain words as emphasized or italic we surround them with a single *asterisk* or _underline dashes_.
-
 
 ## Links
 
